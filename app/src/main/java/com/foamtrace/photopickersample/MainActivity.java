@@ -30,7 +30,7 @@ import java.util.ArrayList;
 
 /**
  * PhotoPicker Demo
- * @author foamtrace
+ * @author JerryAlexLiang
  */
 public class MainActivity extends AppCompatActivity {
 
